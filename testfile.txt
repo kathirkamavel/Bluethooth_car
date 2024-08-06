@@ -1,1 +1,4 @@
-test content
+Bluethooth_car
+
+in this project we use a esp-WROOM-32 board for ble car
+And we use app name Bluetooth Rc Controller for this project
